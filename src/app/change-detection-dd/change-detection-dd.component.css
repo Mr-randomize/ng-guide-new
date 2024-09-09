@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  background-color: #1f1e1b;
+  color: #f5f1e0;
+}
+
+h1 {
+  margin: 3rem 0;
+  text-align: center;
+  color: #e2dfd6;
+}
+
+.debug-output {
+  color: #797974;
+  text-align: center;
+  font-size: 0.75rem;
+}
